@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/czhu6515/nodejs-text-writer/issues"
   },
-  "homepage": "https://github.com/czhu6515/nodejs-text-writer#readme"
+  "homepage": "https://github.com/czhu6515/nodejs-text-writer#readme",
+  "dependencies": {
+    "nodemon": "^1.18.9"
+  }
 }
