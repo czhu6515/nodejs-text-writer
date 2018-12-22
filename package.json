@@ -1,0 +1,24 @@
+{
+  "name": "first_node_project",
+  "version": "1.0.0",
+  "description": "Awesome project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czhu6515/nodejs-text-writer.git"
+  },
+  "keywords": [
+    "awesome",
+    "project",
+    "best"
+  ],
+  "author": "Chenyu Zhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/czhu6515/nodejs-text-writer/issues"
+  },
+  "homepage": "https://github.com/czhu6515/nodejs-text-writer#readme"
+}
